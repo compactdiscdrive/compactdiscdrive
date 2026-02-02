@@ -9,4 +9,5 @@ Im quirky! Instead of using Obsidian like EVERYONE ELSE ive made my own shitty a
 
 uhh yea normal ts like VSCode, Arduino IDE, Godot (making a game rn!) and also use Ghostty instead of the Gnome Terminal (https://ghostty.org) and Zen for browsing (Im quirky like dat :3)
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=beigestack&color=blueviolet)
