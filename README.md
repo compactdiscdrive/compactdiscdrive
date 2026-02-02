@@ -9,11 +9,4 @@ Im quirky! Instead of using Obsidian like EVERYONE ELSE ive made my own shitty a
 
 uhh yea normal ts like VSCode, Arduino IDE, Godot (making a game rn!) and also use Ghostty instead of the Gnome Terminal (https://ghostty.org) and Zen for browsing (Im quirky like dat :3)
 
-## 📊 GitHub Stats
-![Manik's GitHub stats](https://github-readme-stats.vercel.app/api?username=beigestack&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beigestack&layout=compact&theme=gruvbox)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=beigestack&theme=gruvbox)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=beigestack&color=blueviolet)
